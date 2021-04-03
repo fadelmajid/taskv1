@@ -1,3 +1,5 @@
-// Movie API
-you can access link below to access the solution that i create to solve number 2 assignment
+/* Movie API
+ * you can access link below to access the solution that i create to solve number 2 assignment
+ * */
+
 https://github.com/fadelmajid/assignment-api

@@ -21,3 +21,5 @@ function findFirstStringInBracket(chars){
 
 
 console.log(findFirstStringInBracket(''))
+console.log(findFirstStringInBracket('aweasd'))
+console.log(findFirstStringInBracket('aweasd()'))
